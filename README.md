@@ -28,7 +28,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [YourUsername](https://github.com/ayushpatel112233/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [ayushpatel112233](https://github.com/ayushpatel112233/Portfolio). Thanks!
 
 ## Built With
 
