@@ -38,8 +38,8 @@ function NavBar() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        {/* <Navbar.Brand href="/" className="d-flex">
-          <img src={logo} className="img-fluid logo" alt="brand" />
+        <Navbar.Brand href="/" className="d-flex">
+          {/* <img src={logo} className="img-fluid logo" alt="brand" /> */}Ayush Patel
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
@@ -50,7 +50,7 @@ function NavBar() {
           <span></span>
           <span></span>
           <span></span>
-        </Navbar.Toggle> */}
+        </Navbar.Toggle>
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ms-auto" defaultActiveKey="#home">
             <Nav.Item>
@@ -107,7 +107,7 @@ function NavBar() {
                 as={Link}
                 to="/certificates"
                 onClick={() => updateExpanded(false)}
-                style={{ display: "flex", alignItems: "center", gap: "6px" }}
+                //style={{ display: "flex", alignItems: "center", gap: "6px" }}
               >
                 <ImBlog style={{ marginBottom: "2px" }} /> Certificates
               </Nav.Link>
